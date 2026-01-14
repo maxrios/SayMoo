@@ -1,0 +1,19 @@
+{
+  "Group": "dev.maxrios",
+  "Name": "SayMoo",
+  "Version": "1.0.0",
+  "Description": "A Hytale plugin that makes everyone say moo",
+  "Authors": [
+    {
+      "Name": "Max Rios",
+      "Email": "max@maxrios.dev",
+      "Url": "https://maxrios.dev"
+    }
+  ],
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "Main": "dev.maxrios.MooPlugin"
+}
